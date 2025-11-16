@@ -24,7 +24,8 @@ I'm a passionate **Computer Engineering student** and **full-stack developer** s
 Currently, I’m working on:  
 - 🔎 Social media scraping & filtering posts  
 - 📦 Blog package (plug & play)  
-- 📊 Inventory system  
+- 📊 Inventory system
+- 💬 Video chat
 
 ---
 
