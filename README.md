@@ -75,32 +75,46 @@ Currently, I'm working on:
 
 ---
 
-## 📊 GitHub Statistics
+## 📈 Recent Activity
 
-### 📈 Basic GitHub Stats
-<p align="center">
-  <!-- Most reliable basic stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=hizikyas&show_icons=true&count_private=true" alt="GitHub Stats" />
-</p>
-
-### 📊 Contribution Streak
-<p align="center">
-  <!-- Alternative simple streak display -->
-  <img src="https://github-readme-streak-stats.vercel.app/?user=hizikyas" alt="GitHub Streak" />
-</p>
-
-### 🔠 Top Languages
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hizikyas&layout=compact" alt="Top Languages" />
-</p>
+<!--START_SECTION:activity-->
+1. 💪 Working on new features
+2. 🚀 Improving performance
+3. 🔧 Fixing bugs
+4. 📝 Writing documentation
+5. 🤝 Collaborating on projects
+<!--END_SECTION:activity-->
 
 ---
 
-## 👀 Profile Metrics
+## 📊 GitHub Stats & Analytics
+
+### 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=hizikyas&theme=radical&no-frame=true&margin-w=10" />
+</p>
+
+
+### 🔥 GitHub Streak
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hizikyas&theme=dark&hide_border=true" />
+</p>
+
+
+
+### 📊 Activity Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hizikyas&theme=github-dark&hide_border=true&area=true&height=300" alt="Activity Graph" />
+</div>
+
+---
+
+## 👀 Profile Views & Metrics
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=hizikyas" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/hizikyas" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/hizikyas" alt="Stars" />
+  <img src="https://komarev.com/ghpvc/?username=hizikyas&style=for-the-badge&color=blue" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/hizikyas?style=for-the-badge&color=green" alt="GitHub Followers" />
+  <img src="https://img.shields.io/github/stars/hizikyas?style=for-the-badge&color=yellow" alt="Total Stars" />
+  <img src="https://img.shields.io/github/commit-activity/m/hizikyas?style=for-the-badge&color=orange" alt="Commit Activity" />
 </div>
 
 ---
