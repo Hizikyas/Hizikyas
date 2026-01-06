@@ -29,15 +29,6 @@ Currently, I'm working on:
 
 ---
 
-## 💪 Coding Activity
-
-<!-- GitHub Contribution Snake -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/hizikyas/hizikyas/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
-</p>
-
----
-
 ## 💻 Tech Stack
 
 ### 🚀 Languages
@@ -84,50 +75,32 @@ Currently, I'm working on:
 
 ---
 
-## 📈 Recent Activity
+## 📊 GitHub Statistics
 
-<!--START_SECTION:activity-->
-1. 💪 Working on new features
-2. 🚀 Improving performance
-3. 🔧 Fixing bugs
-4. 📝 Writing documentation
-5. 🤝 Collaborating on projects
-<!--END_SECTION:activity-->
-
----
-
-## 📊 GitHub Stats & Analytics
-
-### 🏆 GitHub Trophies
+### 📈 Basic GitHub Stats
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hizikyas&theme=onedark&column=7&no-frame=true&margin-w=10&margin-h=10" alt="GitHub Trophies" />
+  <!-- Most reliable basic stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=hizikyas&show_icons=true&count_private=true" alt="GitHub Stats" />
 </p>
 
-### 📈 GitHub Streaks & Stats
-<div align="center">
-  <!-- Streak Stats - Using the working service -->
-  <img height="180" src="https://streak-stats.demolab.com?user=hizikyas&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly" alt="GitHub Streak" />
-  
-  <!-- GitHub Stats -->
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=hizikyas&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-  
-  <!-- Top Languages -->
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hizikyas&layout=compact&theme=dark&hide_border=true&langs_count=8" alt="Top Languages" />
-</div>
-
-### 📊 Activity Graph
+### 📊 Contribution Streak
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hizikyas&theme=github-dark&hide_border=true&area=true&height=300" alt="Activity Graph" />
-</div>
+  <!-- Alternative simple streak display -->
+  <img src="https://github-readme-streak-stats.vercel.app/?user=hizikyas" alt="GitHub Streak" />
+</p>
+
+### 🔠 Top Languages
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hizikyas&layout=compact" alt="Top Languages" />
+</p>
 
 ---
 
-## 👀 Profile Views & Metrics
+## 👀 Profile Metrics
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=hizikyas&style=for-the-badge&color=blue" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/hizikyas?style=for-the-badge&color=green" alt="GitHub Followers" />
-  <img src="https://img.shields.io/github/stars/hizikyas?style=for-the-badge&color=yellow" alt="Total Stars" />
-  <img src="https://img.shields.io/github/commit-activity/m/hizikyas?style=for-the-badge&color=orange" alt="Commit Activity" />
+  <img src="https://komarev.com/ghpvc/?username=hizikyas" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/hizikyas" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/hizikyas" alt="Stars" />
 </div>
 
 ---
