@@ -78,11 +78,14 @@ Currently, I'm working on:
 ## 📈 Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Working on new features
-2. 🚀 Improving performance
-3. 🔧 Fixing bugs
-4. 📝 Writing documentation
-5. 🤝 Collaborating on projects
+<!-- This section will be automatically updated by GitHub Actions -->
+<!-- Visit: https://github.com/marketplace/actions/profile-readme -->
+<!-- Or use: https://github.com/readme-workflows/github-activity-readme -->
+1. 🔨 Building something amazing
+2. 🚀 Deploying new features
+3. 🐛 Fixing bugs
+4. 📚 Learning new technologies
+5. 🤝 Contributing to open source
 <!--END_SECTION:activity-->
 
 ---
@@ -91,21 +94,24 @@ Currently, I'm working on:
 
 ### 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hizikyas&theme=radical&no-frame=true&margin-w=10" />
+  <img src="https://github-profile-trophy.vercel.app/?username=hizikyas&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=10" alt="GitHub Trophies" />
 </p>
-
 
 ### 🔥 GitHub Streak
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hizikyas&theme=dark&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=hizikyas&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=700" alt="GitHub Streak" />
 </p>
 
-
-
-### 📊 Activity Graph
+### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hizikyas&theme=github-dark&hide_border=true&area=true&height=300" alt="Activity Graph" />
-</div>
+  <img src="https://github-readme-stats.vercel.app/api?username=hizikyas&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true&custom_title=GitHub%20Stats" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hizikyas&layout=compact&theme=dark&hide_border=true&langs_count=8&exclude_repo=github-readme-stats" alt="Top Languages" width="45%" />
+</p>
+
+### 📈 Activity Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hizikyas&theme=github-dark&hide_border=true&area=true&height=300&custom_title=Contribution%20Graph" alt="Activity Graph" />
+</p>
 
 ---
 
@@ -122,6 +128,41 @@ Currently, I'm working on:
 ## 📫 Let's Connect!
 <p align="center">
   <a href="https://github.com/hizikyas"><img height="30" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://twitter.com/yourusername"><img height="30" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-  <a href="https://dev.to/yourusername"><img height="30" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/hizikyastamiru"><img height="30" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://twitter.com/"><img height="30" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="https://dev.to/"><img height="30" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" /></a>
 </p>
+
+---
+
+## ⚡ Quick GitHub Profile Setup
+
+To get the **GitHub Activity** section working automatically, you need to:
+
+1. **Create a GitHub Actions workflow**:
+   - Create a file at `.github/workflows/update-readme.yml`
+   - Add the following content:
+
+```yaml
+name: Update README
+
+on:
+  schedule:
+    - cron: '0 */6 * * *'  # Runs every 6 hours
+  workflow_dispatch:  # Allows manual trigger
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+
+      - name: Update README with GitHub Activity
+        uses: jamesgeorge007/github-activity-readme@master
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          COMMIT_MSG: "docs: Update activity in README"
+          MAX_LINES: 10
