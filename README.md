@@ -133,36 +133,3 @@ Currently, I'm working on:
   <a href="https://dev.to/"><img height="30" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" /></a>
 </p>
 
----
-
-## ⚡ Quick GitHub Profile Setup
-
-To get the **GitHub Activity** section working automatically, you need to:
-
-1. **Create a GitHub Actions workflow**:
-   - Create a file at `.github/workflows/update-readme.yml`
-   - Add the following content:
-
-```yaml
-name: Update README
-
-on:
-  schedule:
-    - cron: '0 */6 * * *'  # Runs every 6 hours
-  workflow_dispatch:  # Allows manual trigger
-
-jobs:
-  update-readme:
-    runs-on: ubuntu-latest
-    
-    steps:
-      - name: Checkout Repository
-        uses: actions/checkout@v3
-
-      - name: Update README with GitHub Activity
-        uses: jamesgeorge007/github-activity-readme@master
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        with:
-          COMMIT_MSG: "docs: Update activity in README"
-          MAX_LINES: 10
