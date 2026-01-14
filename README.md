@@ -77,10 +77,6 @@ Currently, I'm working on:
 
 ## 📈 Recent Activity
 
-<!--START_SECTION:activity-->
-<!-- This section will be automatically updated by GitHub Actions -->
-<!-- Visit: https://github.com/marketplace/actions/profile-readme -->
-<!-- Or use: https://github.com/readme-workflows/github-activity-readme -->
 1. 🔨 Building something amazing
 2. 🚀 Deploying new features
 3. 🐛 Fixing bugs
