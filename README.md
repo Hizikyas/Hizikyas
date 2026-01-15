@@ -2,7 +2,6 @@
 
 ---
 
-<!-- Badges / Quick Links -->
 ### <p align="center">Full-Stack Engineer | MERN Stack Developer | Community Tech Builder</p>
 <p align="center">
   <a href="mailto:hizikyastamiru@gmail.com"><img height="36" src="https://img.shields.io/badge/Email-Contact-informational?style=for-the-badge&logo=gmail" /></a>
