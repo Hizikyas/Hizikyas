@@ -12,7 +12,7 @@
 
 ---
 //  
-## 🚀 About Me // this is about he about info
+## 🚀 About Me
 I'm a passionate **Computer Engineering student** and **full-stack developer** specializing in:  
 
 📱 Cross-platform development with **React & Next.js**  
