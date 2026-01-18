@@ -13,7 +13,7 @@
 ---
 
 ## 🚀 About Me
-I'm a passionate **Computer Engineering student** and **full-stack developer** specializing in:  
+I'm a **Computer Engineering student** and **full-stack developer** specializing in:  
 
 📱 Cross-platform development with **React & Next.js**  
 🧑‍💻 Backend systems using **Node.js, Express, NestJS**  
