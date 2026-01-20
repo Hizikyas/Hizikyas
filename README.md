@@ -22,7 +22,7 @@ I'm a **Computer Engineering student** and **full-stack developer** specializing
 
 Currently, I'm working on:  
 - 🔎 Social media scraping & filtering posts  
-- 📦 Blog package (plug & play)  
+- 📦 Student management system 
 - 📊 Inventory system
 - 💬 Video chat
 
