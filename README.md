@@ -24,7 +24,7 @@ Currently, I'm working on:
 - 🔎 Social media scraping & filtering posts  
 - 📦 Student management system 
 - 📊 Inventory system
-- 💬 Video chat
+- 💬 Chat Application
 
 ---
 
