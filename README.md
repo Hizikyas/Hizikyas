@@ -16,7 +16,7 @@
 I'm a **Computer Engineering student** and **full-stack developer** specializing in:  
 
 📱 Cross-platform development with **React, Next.js, Nuxt**  
-🧑‍💻 Backend systems using **Node.js, Express, NestJS, Go(Gin)**  
+🧑‍💻 Backend systems using **Node.js, Express, NestJS, Go(Gin), FastAPI**  
 🗄️ Databases like **MongoDB, MySQL, Supabase, PostgreSQL, SQL**  
 ⚡ Building tools that solve **real-world problems**  
 
