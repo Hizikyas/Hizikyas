@@ -21,7 +21,6 @@ I'm a **Computer Engineering student** and **full-stack developer** specializing
 ⚡ Building tools that solve **real-world problems**  
 
 Currently, I'm working on:  
-- 🔎 Social media scraping & filtering posts  
 - 📦 Student management system 
 - 📊 Inventory system
 - 💬 Chat Application and video chat
