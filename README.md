@@ -20,11 +20,6 @@ I'm a **Computer Engineering student** and **full-stack developer** specializing
 🗄️ Databases like **MongoDB, MySQL, Supabase, PostgreSQL, SQL**  
 ⚡ Building tools that solve **real-world problems**  
 
-Currently, I'm working on:  
-- 📦 Student management system 
-- 📊 Inventory system
-- 💬 Chat Application and video chat
-
 ---
 
 ## 💻 Tech Stack
