@@ -69,12 +69,7 @@ I'm a **Computer Engineering student** and **full-stack developer** specializing
 
 ---
 
-## 📊 GitHub Stats & Analytics
-
-### 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hizikyas&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=10" alt="GitHub Trophies" />
-</p>
+##                                                📊 GitHub Stats & Analytics
 
 ### 🔥 GitHub Streak
 <p align="center">
