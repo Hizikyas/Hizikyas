@@ -69,17 +69,6 @@ I'm a **Computer Engineering student** and **full-stack developer** specializing
 
 ---
 
-## 📈 Recent Activity
-
-1. 🔨 Building something amazing
-2. 🚀 Deploying new features
-3. 🐛 Fixing bugs
-4. 📚 Learning new technologies
-5. 🤝 Contributing to open source
-<!--END_SECTION:activity-->
-
----
-
 ## 📊 GitHub Stats & Analytics
 
 ### 🏆 GitHub Trophies
