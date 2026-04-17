@@ -22,9 +22,8 @@ I'm a **Computer Engineering student** and **full-stack developer** specializing
 
 ---
 
-## 💻 Techs
+## 💻 Techs and Tools
 
-### 🚀 Languages
 <div>
   <img height="36"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
   <img height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
