@@ -12,12 +12,12 @@
 
 ---
 
-## 🚀 About Me
+# 🚀 Stuff About Me
 I'm a Computer Engineering student and full-stack developer focused on building real-world, production-ready applications.  
 
-💻 Work across diverse technologies and environments  
-🤝 Experience collaborating on live systems with real users  
-⚡ Passionate about clean code and practical problem-solving  
+- Work across diverse technologies and environments  
+- Experience collaborating on live systems with real users  
+- Passionate about clean code and practical problem-solving  
 
 ---
 
