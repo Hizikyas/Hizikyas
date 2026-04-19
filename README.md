@@ -21,7 +21,7 @@ I'm a Computer Engineering student and full-stack developer focused on building 
 
 ---
 
-## 💻 Techs and Tools
+# 💻 Techs and Tools
 
 <div>
   <img height="36"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
@@ -50,7 +50,7 @@ I'm a Computer Engineering student and full-stack developer focused on building 
   <img height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" />
 </div>
 
-# <p align="center">👀Profile Stalkers</p>
+# 👀Profile Stalkers
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=hizikyas&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
