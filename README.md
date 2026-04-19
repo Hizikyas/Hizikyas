@@ -49,7 +49,3 @@ I'm a Computer Engineering student and full-stack developer focused on building 
   <img height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
   <img height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" />
 </div>
-
-
-
-
