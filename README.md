@@ -53,5 +53,5 @@ I'm a Computer Engineering student and full-stack developer focused on building 
 ## 👀 Profile Views
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=hizikyas&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
