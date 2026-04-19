@@ -50,7 +50,7 @@ I'm a Computer Engineering student and full-stack developer focused on building 
   <img height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" />
 </div>
 
-## 👀 Profile Views
+# <p align="center">👀Profile Stalkers</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=hizikyas&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
